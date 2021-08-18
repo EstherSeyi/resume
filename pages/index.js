@@ -22,7 +22,7 @@ export default function Home() {
         </p>
       </main>
       <footer className="text-center text-xs py-2 sticky right-0 left-0 bottom-0 ">
-        Created with ❤️ by Esther Ogundijo at{" "}
+        Created with ❤️ by Seyi Ogundijo at{" "}
         <a href="https://internship.zuri.team/" target="_blank">
           <span className="hover:underline cursor-pointer text-blue">
             Zuri Internship
