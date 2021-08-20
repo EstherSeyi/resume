@@ -12,7 +12,7 @@ export default function Home() {
         <title>Print Name</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="min-h-screen  relative z-10 border-b border-grey flex items-center justify-center">
+      <main className="min-h-screen relative z-10 border-b bg-white border-grey flex items-center justify-center">
         <p>
           My Name is{" "}
           <a href="/resume" target="_blank" className="text-blue">

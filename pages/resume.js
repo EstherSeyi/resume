@@ -69,7 +69,7 @@ export default function Home() {
                 <div className="flex mb-2">
                   <MailIcon className="mr-4 w-5 h-5" />
                   <a
-                    className="hover:text-blue"
+                    className="hover:text-blue truncate"
                     href="mailto:sheyiogundijo@gmail.com?subject=Important Email&body=Hi Esther,"
                   >
                     sheyiogundijo@gmail.com
@@ -82,7 +82,7 @@ export default function Home() {
                 <div className="flex">
                   <GlobeIcon className="mr-4 w-5 h-5" />
                   <a
-                    className="hover:text-blue"
+                    className="hover:text-blue truncate"
                     href="https://www.estherogundijo.rocks"
                     target="_blank"
                   >
